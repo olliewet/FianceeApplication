@@ -1,0 +1,17 @@
+C:\Users\Ollie\Desktop\Project\fianceeapp\bin\Debug\fianceeapp.exe.config
+C:\Users\Ollie\Desktop\Project\fianceeapp\bin\Debug\fianceeapp.exe
+C:\Users\Ollie\Desktop\Project\fianceeapp\bin\Debug\fianceeapp.pdb
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.csprojAssemblyReference.cache
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.Home.resources
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.Monthly.resources
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.Properties.Resources.resources
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.csproj.GenerateResource.cache
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.csproj.CoreCompileInputs.cache
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.exe
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.pdb
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.Studentloan.resources
+C:\Users\Ollie\Desktop\Project\fianceeapp\bin\Debug\fianceeapp.exe.manifest
+C:\Users\Ollie\Desktop\Project\fianceeapp\bin\Debug\fianceeapp.application
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.exe.manifest
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.application
+C:\Users\Ollie\Desktop\Project\fianceeapp\obj\Debug\fianceeapp.Tips.resources
